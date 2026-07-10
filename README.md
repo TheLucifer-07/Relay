@@ -577,8 +577,6 @@ For larger changes, open an issue first to align on direction before the work be
 [LinkedIn](https://www.linkedin.com/in/hemachandu-animireddy/) &nbsp;•&nbsp;
 [Email](mailto:hemachanduanimireddy@gmail.com)
 
-Released under the MIT License — see [`LICENSE`](./LICENSE).
-
 </div>
 
 ---
